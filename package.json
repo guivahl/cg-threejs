@@ -4,7 +4,7 @@
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "start": "node ./node_modules/http-server/bin/http-server ./src/index.html 8080"
+    "start": "node ./node_modules/http-server/bin/http-server . 8080"
   },
   "keywords": [],
   "author": "",
